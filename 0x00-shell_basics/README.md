@@ -4,3 +4,4 @@ This Script will print the absolute path name of the current working directory
 3-listfiles lists files in a long format
 4-listmorefiles displays even hidden files
 5-listfilesdigitonly will listbcontents of the current directory in long format with user and group ids and hidden files
+6-firstdirectory creates a new directory
