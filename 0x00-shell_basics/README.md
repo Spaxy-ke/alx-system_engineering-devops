@@ -5,3 +5,4 @@ This Script will print the absolute path name of the current working directory
 4-listmorefiles displays even hidden files
 5-listfilesdigitonly will listbcontents of the current directory in long format with user and group ids and hidden files
 6-firstdirectory creates a new directory
+7-movethatfile moves betty from tmp to /tmp/my_first_directory
