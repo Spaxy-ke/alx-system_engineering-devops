@@ -12,3 +12,4 @@ This Script will print the absolute path name of the current working directory
 8-firstdelete will delete the file betty in /tmp/my_first_directory
 9-firstdirdeletion will delete my_first_directory in tmp
 10-back will take you back to the previous directory
+11-lists will list all the files in /tmp / and /boot
