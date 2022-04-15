@@ -6,3 +6,4 @@
 5-execute changes the file permission of file hello to make it executable by the current user
 6-multiple_permissions will change the permissions of the file hello
 7-everybody will change the permissions of the file hello
+8-James_Bond will change the permission of the file hello to ------rwx
