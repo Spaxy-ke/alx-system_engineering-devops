@@ -10,3 +10,4 @@
 9-John_Doe will change the permission of the file hello to -rwxr-x-wx
 10-mirror_permissions will mirror the permissions of olleh to hello
 11-directories_permissions changes the permission of al subdirectoriesof the current directory
+12-directory_permissions creates my_dir with permissions 751
