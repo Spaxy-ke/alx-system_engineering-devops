@@ -7,3 +7,4 @@
 6-multiple_permissions will change the permissions of the file hello
 7-everybody will change the permissions of the file hello
 8-James_Bond will change the permission of the file hello to ------rwx
+9-John_Doe will change the permission of the file hello to -rwxr-x-wx
