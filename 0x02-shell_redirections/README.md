@@ -6,3 +6,4 @@
 4-lastlines will print the last 10 lines of the file /etc/passwd
 5-firstlines will print the first 10 lines of the file /etc/passwd
 6-third_line will print the third line of the file iacta
+7-file will create a new file named \*\'Best School\'\*$\?\*\*\*\*\*:)
